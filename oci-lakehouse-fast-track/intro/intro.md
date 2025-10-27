@@ -1,6 +1,26 @@
 # Arquitetura Medalhão com Oracle AI Data Platform
 
-## Resumo
+## *Sobre esse Workshop*
+
+O laboratório tem como objetivo desenvolver habilidades no uso de serviços de Lakehouse da Oracle Cloud, cobrindo desde a aquisição de dados até a geração de insights e relatórios. A metodologia segue a arquitetura em camadas Bronze, Prata e Ouro, permitindo que os participantes explorem e refinem os dados em cada fase do ciclo de vida.
+
+**Todas as práticas estão descritas em detalhes e não necessitam de qualquer conhecimento prévio para serem executadas.**
+
+Em caso de dúvidas ou necessidade de suporte, os participantes poderão entrar em contato com a equipe responsável pela criação e edição dos laboratórios, com informações de contato disponíveis ao final de cada etapa.
+
+***Tempo estimado para o Workshop:* 3 Horas**
+
+*Objetivos*
+
+Por meio deste guia, iremos fornecer laboratórios práticos de:
+
+* Configuração e Implementação do Ambiente no **AIDP**
+* Organização e Governança de Dados no **AIDP**
+* Manipulação e Transformação de Dados no **AIDP**
+* Consumo de Dados via **Oracle AI Data Platform**
+* Visualização de Dados no **Oracle Analytics Cloud (OAC)**
+
+## Arquitetura Medalhão & AIDP
 
 A **arquitetura de medalhão** é um modelo que organiza os dados em etapas progressivas — **Bronze, Prata e Ouro** —, facilitando a jornada de **dados brutos até insights de alto valor**. Essa estrutura garante **qualidade, rastreabilidade e confiabilidade**, permitindo que as empresas tomem decisões mais seguras e que modelos de **Inteligência Artificial** sejam alimentados com dados consistentes.
 
@@ -13,46 +33,12 @@ Dentro dessa jornada, o **Oracle AI Data Platform (AIDP)** será o coração da 
 
 Nos tópicos a seguir, você poderá explorar em detalhe como essa arquitetura está estruturada e como cada camada contribui para gerar valor.
 
-### *Sobre esse Workshop*
-
-O laboratório tem como objetivo desenvolver habilidades no uso de serviços de Lakehouse da Oracle Cloud, cobrindo desde a aquisição de dados até a geração de insights e relatórios. A metodologia segue a arquitetura em camadas Bronze, Prata e Ouro, permitindo que os participantes explorem e refinem os dados em cada fase do ciclo de vida.
-
-**Todas as práticas estão descritas em detalhes e não necessitam de qualquer conhecimento prévio para serem executadas.**
-
-Em caso de dúvidas ou necessidade de suporte, os participantes poderão entrar em contato com a equipe responsável pela criação e edição dos laboratórios, com informações de contato disponíveis ao final de cada etapa.
-
-***Tempo estimado para o Workshop:* 3 Horas**
-
-
-*Objetivos*
-
-Por meio deste guia, iremos fornecer laboratórios práticos de:
-
-* Configuração e Implementação do Ambiente no **AIDP**
-* Organização e Governança de Dados no **AIDP**
-* Manipulação e Transformação de Dados no **AIDP**
-* Consumo de Dados via **Oracle AI Data Platform**
-* Visualização de Dados no **Oracle Analytics Cloud (OAC)**
-
 
 ## Arquitetura do Workshop
 
+(PENDENTE) ARQUITETURA AIDP
+
 ![Arquitetura usada neste workshop.](./images/arquitetura-workshop.gif)
-
-### *Sobre o Oracle Cloud Infrastructure Data Flow*
-
-O **OCI Data Flow** será o **principal serviço** utilizado neste workshop. Ele é uma **plataforma em nuvem para análise de dados** que simplifica o uso do **Apache Spark em grande escala**.
-
-Por estar **totalmente na nuvem**, elimina a necessidade de **configurar e manter clusters**, permitindo que desenvolvedores e cientistas de dados foquem no que realmente importa: **processar e transformar informações**.
-
-Com o **Data Flow**, é possível:
-
-* **Executar tarefas em paralelo**, aproveitando o poder distribuído do Spark.
-* Fazer **análises de big data diretamente nas fontes**, sem complicações de infraestrutura.
-* **Integrar facilmente** a ferramenta a fluxos de trabalho existentes, pela **interface intuitiva** ou por **APIs**.
-* **Processar dados em tempo real** com Spark Streaming, garantindo informações sempre atualizadas para análises e decisões rápidas.
-
-Em resumo, o **OCI Data Flow une escala, simplicidade e eficiência**, ajudando a **transformar dados em valor** sem a sobrecarga de gerenciar infraestrutura.
 
 ## Saiba Mais
 

@@ -12,12 +12,12 @@
         {
             "title": "[OBRIGATÓRIO] Configuração do Oracle Free Tier",
             "description": "Aprenda a criar o ambiente gratuito de desenvolvimento.",
-            "filename": "../../ft-pt-config-lab-1/ft-pt-config-lab-credit-card.md"
+            "filename": "../../ft-pt-config-freetier-0/ft-pt-config-freetier-credit-card.md"
         },
         {
             "title": "Lab 1: Provisionamento de Serviços do OCI",
             "description": "Aprenda a provisionar os serviços que serão utilizados neste laboratório",
-            "filename": "../../ft-df-studio-config-2/ft-df-studio-config-2.md"
+            "filename": "../../ft-provisioning-resources-1/ft-provisioning-resources-1.md"
         },
         {
             "title": "Lab 3: Manipulação de dados - Bronze",
