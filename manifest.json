@@ -18,22 +18,22 @@
             "filename": "ft-provisioning-resources-1/ft-provisioning-resources-1.md"
         },
         {
-            "title": "Lab 3: Manipulação de dados - Bronze",
-            "description": "Aprenda a criar um conjunto de dados a partir de 2 tabelas em um Banco de Dados",
-            "filename": "ft-data-manipulation-bronze-3/ft-data-manipulation-bronze-3.md"
+            "title": "Lab 2: Manipulação de dados - Bronze",
+            "description": "Aprenda a realizar a ingestão de dados no AIDP",
+            "filename": "ft-data-manipulation-bronze-2/ft-data-manipulation-bronze-2.md"
         },
         {
-            "title": "Lab 4: Manipulação de dados - Prata",
+            "title": "Lab 3: Manipulação de dados - Prata",
             "description": "Enriqueça seus dados através de transformações no Analytics Cloud",
             "filename": "ft-data-manipulation-silver-4/ft-data-manipulation-silver-4.md"
         },
         {
-            "title": "Lab 5: Manipulação de dados - Ouro",
+            "title": "Lab 4: Manipulação de dados - Ouro",
             "description": "Enriqueça seus dados através de transformações no Analytics Cloud",
             "filename": "ft-data-manipulation-gold-5/ft-data-manipulation-gold-5.md"
         },
         {
-            "title": "Lab 6: Conexão DBeaver e Consultas SQL",
+            "title": "Lab 5: Conexão com Oracle Analytics Cloud",
             "description": "Explore os recursos do Oracle Analytics Cloud para criar visualizações",
             "filename": "ft-data-connection-6/ft-data-connection-6.md"
         },
