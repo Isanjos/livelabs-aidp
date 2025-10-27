@@ -1,8 +1,6 @@
 {
     "workshoptitle": "Arquitetura Medalhão com Oracle AI Data Platform",
     "help": "isabelle.anjos@oracle.com",
-    "variables": ["../../variables/variables.json",
-        "../../variables/variables-in-another-file.json"],
     "tutorials": [
         {
             "title": "Introdução",
