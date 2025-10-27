@@ -10,13 +10,13 @@
             "filename": "../../intro/intro.md"
         },
         {
-            "title": "Lab 1: Configuração do Oracle Free Tier",
-            "description": "Aprenda a configurar o ambiente de desenvolvimento no OCI Data Science",
+            "title": "[OBRIGATÓRIO] Configuração do Oracle Free Tier",
+            "description": "Aprenda a criar o ambiente gratuito de desenvolvimento.",
             "filename": "../../ft-pt-config-lab-1/ft-pt-config-lab-credit-card.md"
         },
         {
-            "title": "Lab 2: Configuração do Data Flow Studio no OCI Data Science ",
-            "description": "Aprenda a criar uma sessão de desenvolvimento no Data Flow Studio",
+            "title": "Lab 1: Provisionamento de Serviços do OCI",
+            "description": "Aprenda a provisionar os serviços que serão utilizados neste laboratório",
             "filename": "../../ft-df-studio-config-2/ft-df-studio-config-2.md"
         },
         {
