@@ -1,0 +1,48 @@
+{
+    "workshoptitle": "Arquitetura Medalhão com Oracle AI Data Platform",
+    "help": "isabelle.anjos@oracle.com",
+    "variables": ["../../variables/variables.json",
+        "../../variables/variables-in-another-file.json"],
+    "tutorials": [
+        {
+            "title": "Introdução",
+            "description": "Bem-vindo ao OCI Data & AI Live Labs - Arquitetura Medalhão com Oracle AI Data Platform",
+            "filename": "../../intro/intro.md"
+        },
+        {
+            "title": "[OBRIGATÓRIO] Configuração do Oracle Free Tier",
+            "description": "Aprenda a criar o ambiente gratuito de desenvolvimento.",
+            "filename": "../../ft-pt-config-freetier-0/ft-pt-config-freetier-credit-card.md"
+        },
+        {
+            "title": "Lab 1: Provisionamento de Serviços do OCI",
+            "description": "Aprenda a provisionar os serviços que serão utilizados neste laboratório",
+            "filename": "../../ft-provisioning-resources-1/ft-provisioning-resources-1.md"
+        },
+        {
+            "title": "Lab 3: Manipulação de dados - Bronze",
+            "description": "Aprenda a criar um conjunto de dados a partir de 2 tabelas em um Banco de Dados",
+            "filename": "../../ft-data-manipulation-bronze-3/ft-data-manipulation-bronze-3.md"
+        },
+        {
+            "title": "Lab 4: Manipulação de dados - Prata",
+            "description": "Enriqueça seus dados através de transformações no Analytics Cloud",
+            "filename": "../../ft-data-manipulation-silver-4/ft-data-manipulation-silver-4.md"
+        },
+        {
+            "title": "Lab 5: Manipulação de dados - Ouro",
+            "description": "Enriqueça seus dados através de transformações no Analytics Cloud",
+            "filename": "../../ft-data-manipulation-gold-5/ft-data-manipulation-gold-5.md"
+        },
+        {
+            "title": "Lab 6: Conexão DBeaver e Consultas SQL",
+            "description": "Explore os recursos do Oracle Analytics Cloud para criar visualizações",
+            "filename": "../../ft-data-connection-6/ft-data-connection-6.md"
+        },
+        {
+            "title": "Need Help?",
+            "description": "Solutions to Common Problems and Directions for Receiving Live Help",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs.md"
+        }
+    ]
+}
